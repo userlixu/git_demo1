@@ -11,4 +11,7 @@ public class HelloGit
 	public void Sleep(){
 		System.out.println("睡觉");
 	}
+	public void Work(){
+		System.out.println("工作");
+	}
 }	
