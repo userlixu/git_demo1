@@ -14,4 +14,7 @@ public class HelloGit
 	public void Work(){
 		System.out.println("工作");
 	}
+	public void Music(){
+		System.out.println("音乐");
+	}
 }	
