@@ -4,17 +4,19 @@ public class HelloGit
 		System.out.println("hello git");
 		Lean();
 		Sleep();
+		Work();
+		Music();
 	}
-	public void Lean(){
+	public static void Lean(){
 		System.out.println("学习");
 	}
-	public void Sleep(){
+	public static void Sleep(){
 		System.out.println("睡觉");
 	}
-	public void Work(){
+	public static void Work(){
 		System.out.println("工作");
 	}
-	public void Music(){
+	public static void Music(){
 		System.out.println("音乐");
 	}
 }	
